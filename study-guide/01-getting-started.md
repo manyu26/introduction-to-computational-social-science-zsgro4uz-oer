@@ -17,3 +17,19 @@ Instead of a lab, the "field" for a computational social scientist might be Twit
 The great promise of CSS is its ability to observe behavior at an unprecedented scale and with high **ecological validity**—that is, in the real-world settings where it naturally occurs. However, it also comes with significant challenges. The data is often unstructured and not collected with a specific research question in mind. More importantly, CSS raises critical ethical questions about privacy, consent, and algorithmic bias. Just because data is public doesn't mean it's ethical to use without consideration.
 
 Ultimately, computational social science doesn't replace traditional psychological research; it enhances it. It offers a new lens through which to examine the human experience, allowing us to see patterns in the noise of our increasingly digital lives.
+
+## Core Concepts and Methods{{attrs[#blk-9is6g3jjrhjl]}}
+
+Computational social science is a diverse field that combines social theories with computational tools. This course will introduce you to the core methods and concepts used to analyze the digital traces of human behavior. Key topics include:
+
+*   **Working with Digital Data:** We'll explore how to collect and manage the massive datasets that fuel computational social science. This includes data from social media platforms, digitized historical records, and information gathered by scraping websites. We'll also discuss the critical ethical considerations of privacy and consent when working with this "found" data.
+
+*   **Social Network Analysis:** This method focuses on relationships and connections. By representing individuals or groups as **nodes** and their relationships as **edges**, we can map social structures, identify influential actors, and understand how information or behaviors spread through a population.
+
+*   **Analyzing Text as Data:** With so much of modern communication happening through text, we need methods to analyze it at scale. Using techniques from Natural Language Processing (NLP), we can perform **sentiment analysis** to gauge public mood, use **topic modeling** to discover the main themes in thousands of documents, and study how language use varies across communities.
+
+*   **Agent-Based Modeling (ABM):** How do large-scale social patterns emerge from individual behaviors? ABMs allow us to create simulations, or "artificial societies," where we program individual agents with simple rules and observe the collective outcomes. This is a powerful tool for testing social theories and exploring "what if" scenarios that are difficult to study in the real world.
+
+*   **Machine Learning:** This involves using algorithms to learn patterns from data and make predictions. We'll cover **supervised learning**, where we train a model to predict a known outcome (e.g., classifying a news article as real or fake), and **unsupervised learning**, where we ask the algorithm to find hidden structures or groups within the data on its own.
+
+Throughout all these topics, we will continuously engage with the **ethical dimensions** of computational research. Questions of algorithmic bias, data privacy, transparency, and the societal impact of our findings are central to practicing computational social science responsibly.
