@@ -17,5 +17,3 @@ Instead of a lab, the "field" for a computational social scientist might be Twit
 The great promise of CSS is its ability to observe behavior at an unprecedented scale and with high **ecological validity**—that is, in the real-world settings where it naturally occurs. However, it also comes with significant challenges. The data is often unstructured and not collected with a specific research question in mind. More importantly, CSS raises critical ethical questions about privacy, consent, and algorithmic bias. Just because data is public doesn't mean it's ethical to use without consideration.
 
 Ultimately, computational social science doesn't replace traditional psychological research; it enhances it. It offers a new lens through which to examine the human experience, allowing us to see patterns in the noise of our increasingly digital lives.
-
-## {{attrs[#blk-agpfrsf47zv7]}}
