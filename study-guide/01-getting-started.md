@@ -83,5 +83,3 @@ When you run this code, you'll see that Diane has the highest scores for all thr
 *   **Closeness:** Because she is so central, she can reach everyone else in the network more quickly (in fewer "hops") than anyone else.
 
 This simple example shows how SNA can turn a list of connections into a rich, quantitative understanding of social structure and influence.
-
-## Key Concepts in Social Networks: Ego and Alter{{attrs[#blk-my3qetsalaxh]}}
