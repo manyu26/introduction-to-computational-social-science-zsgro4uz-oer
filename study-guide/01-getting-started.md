@@ -1,12 +1,6 @@
-## Getting started{{attrs[#blk-efv6ytcn2jqt]}}
+## Overview{{attrs[#blk-mc1y5m2b857l]}}
 
-Welcome to **Introduction to Computational Social Science**. This is your first study-guide section — replace it
-with your own material. Each section keeps a permanent invisible label (the
-`{{attrs[#…]}}` marker) so worksheets and slides generated from it stay
-connected even as you edit.
-
-Chemistry notation works out of the box: H~2~O, CO~3~^2-^, and equations like
-$K_a = \frac{[\mathrm{H^+}][\mathrm{A^-}]}{[\mathrm{HA}]}$.
+Computational Social Science (CSS) is an interdisciplinary field that uses computational methods to analyze and understand human social behavior. It combines theories and questions from the social sciences (like sociology, political science, and economics) with techniques from computer science and data science. By analyzing large-scale datasets, running simulations, and building models, researchers in CSS aim to uncover patterns and dynamics of social life that were previously difficult or impossible to study.
 
 ## What is Computational Social Science?{{attrs[#blk-gbkopfy2o7tp]}}
 
@@ -90,14 +84,4 @@ When you run this code, you'll see that Diane has the highest scores for all thr
 
 This simple example shows how SNA can turn a list of connections into a rich, quantitative understanding of social structure and influence.
 
-## What is Computational Social Science?{{attrs[#blk-mc1y5m2b857l]}}
-
-Computational Social Science (CSS) is an interdisciplinary field that uses computational methods to analyze and understand human social behavior. It combines theories and questions from the social sciences (like sociology, political science, and economics) with techniques from computer science and data science. By analyzing large-scale datasets, running simulations, and building models, researchers in CSS aim to uncover patterns and dynamics of social life that were previously difficult or impossible to study.
-
 ## Key Concepts in Social Networks: Ego and Alter{{attrs[#blk-my3qetsalaxh]}}
-
-In the study of social networks, two fundamental terms are used to describe the individuals within a network from a specific viewpoint: ego and alter.
-
-The **ego** is the central individual or node that is the focus of the analysis. When mapping a personal network, the ego is the "self" or the person from whose perspective the network is being viewed.
-
-An **alter** is any other individual directly connected to the ego. The alters are the "others" in the ego's social environment. For example, if we were analyzing your network of friends, you would be the ego, and each of your friends would be an alter.
