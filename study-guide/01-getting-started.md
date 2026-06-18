@@ -18,4 +18,4 @@ The great promise of CSS is its ability to observe behavior at an unprecedented 
 
 Ultimately, computational social science doesn't replace traditional psychological research; it enhances it. It offers a new lens through which to examine the human experience, allowing us to see patterns in the noise of our increasingly digital lives.
 
-## Understanding Connections: An Introduction to Social Network Analysis{{attrs[#blk-agpfrsf47zv7]}}
+## {{attrs[#blk-agpfrsf47zv7]}}
