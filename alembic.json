@@ -6,7 +6,6 @@
   "discipline": "chemistry",
   "courseContext": {},
   "license": "CC-BY-4.0",
-  "createdAt": "2026-06-16T02:05:45.931Z",
   "chapters": [
     {
       "slug": "01-getting-started",
@@ -14,7 +13,8 @@
     },
     {
       "slug": "introduction",
-      "title": "Introduction"
+      "title": "Social Network Analysis"
     }
-  ]
+  ],
+  "createdAt": "2026-06-16T02:05:45.931Z"
 }
