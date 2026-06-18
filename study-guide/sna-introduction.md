@@ -6,7 +6,7 @@ The **ego** is the central individual or node that is the focus of the analysis.
 
 An **alter** is any other individual directly connected to the ego. The alters are the "others" in the ego's social environment. For example, if we were analyzing your network of friends, you would be the ego, and each of your friends would be an alter.
 
-## Introduction to Social Network Analysis{{attrs[#blk-n9brsfqemeiq]}}
+## Key Terminologies and Examples{{attrs[#blk-n9brsfqemeiq]}}
 
 Social Network Analysis (SNA) is a powerful way to visualize and study relationships. Instead of focusing on individuals in isolation, it examines the connections *between* them to understand the structure of a group and how it functions. At its core, every network consists of two basic components:
 
