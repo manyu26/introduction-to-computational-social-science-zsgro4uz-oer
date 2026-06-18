@@ -27,7 +27,7 @@ A **sociocentric** (or whole) network maps all of the relationships within a cle
 
 *   **Example:** To create a sociocentric network of a chemistry lab section, we would survey *every student* in the lab and ask them to name everyone they collaborated with during the semester. By combining all the answers, we could draw a complete map showing all the students and the collaborative ties between them. This map would reveal the lab's overall social structure, allowing us to see cliques, identify socially isolated students, and pinpoint individuals who act as crucial bridges between different groups.
 
-## New section{{attrs[#blk-uodii9eoogqh]}}
+## Understanding Connections: An Introduction to Social Network Analysis{{attrs[#blk-uodii9eoogqh]}}
 
 Social Network Analysis (SNA) is a powerful method for studying social structures. Instead of focusing on individuals and their attributes (like age or income), SNA focuses on the *relationships and connections between them*. It allows us to visualize and measure the flow of information, influence, and interaction within a group. Think of it as creating a map of a social landscape.
 
