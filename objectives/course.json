@@ -1,0 +1,29 @@
+{
+  "scope": "course",
+  "objectives": [
+    {
+      "id": "1",
+      "text": "desribe what is CSS",
+      "conceptIds": [
+        "101"
+      ],
+      "blockIds": []
+    },
+    {
+      "id": "2",
+      "text": "describe what ego is",
+      "conceptIds": [
+        "102"
+      ],
+      "blockIds": []
+    },
+    {
+      "id": "3",
+      "text": "describe what alter is",
+      "conceptIds": [
+        "103"
+      ],
+      "blockIds": []
+    }
+  ]
+}

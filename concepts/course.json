@@ -1,0 +1,12 @@
+{
+  "scope": "course",
+  "concepts": [
+    {
+      "id": "1",
+      "label": "what is css",
+      "prerequisites": [],
+      "related": [],
+      "blockIds": []
+    }
+  ]
+}
